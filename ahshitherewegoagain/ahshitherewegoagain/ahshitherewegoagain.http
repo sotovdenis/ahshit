@@ -1,0 +1,18 @@
+@ahshitherewegoagain_HostAddress = https://localhost:7202
+
+GET {{ahshitherewegoagain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ahshitherewegoagain_HostAddress}}/weatherforecast
+
+###
+
+GET {{ahshitherewegoagain_HostAddress}}/api/component
+
+###
+
+GET {{ahshitherewegoagain_HostAddress}}/api/component
+
+###
